@@ -141,6 +141,13 @@ The project follows a multi-container Docker architecture consisting of three ma
   `aws configure` Make sure you have created your credentials in the AWS IAM service.
 
   <img width="1893" height="771" alt="image" src="https://github.com/user-attachments/assets/ec2f3702-e0bb-41df-83ad-e0d0b0c36d7c" />
+  <img width="812" height="119" alt="image" src="https://github.com/user-attachments/assets/05d504b2-86f6-403d-a53a-1a293ea18d08" />
+  <img width="683" height="92" alt="image" src="https://github.com/user-attachments/assets/c8d98e1b-0002-4b63-a19e-f3ca38247b5b" />
+<img width="1825" height="90" alt="image" src="https://github.com/user-attachments/assets/5e750341-370f-4a83-ad8f-1542357dbd82" />
+
+Making some system as Worker node so only we install java JDK
+
+
 
 
 ### Step 2: Install eksctl
