@@ -140,6 +140,9 @@ The project follows a multi-container Docker architecture consisting of three ma
 ### Step 1: Configure AWS Credentials
   `aws configure` Make sure you have created your credentials in the AWS IAM service.
 
+  <img width="1893" height="771" alt="image" src="https://github.com/user-attachments/assets/ec2f3702-e0bb-41df-83ad-e0d0b0c36d7c" />
+
+
 ### Step 2: Install eksctl
   eksctl is a simple CLI tool for creating and managing EKS clusters. Install eksctl using the following commands:
 
