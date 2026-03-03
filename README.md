@@ -238,6 +238,9 @@ step 12:
 install docker plugin to run dynamic worker node.
 <img width="1890" height="830" alt="image" src="https://github.com/user-attachments/assets/4f0b66a8-60e8-423e-a0ce-711de4499e82" />
 
+<img width="1880" height="858" alt="image" src="https://github.com/user-attachments/assets/8fcec836-eba7-4a84-a1ec-e402c2ed9032" />
+
+
 
 
 
