@@ -217,6 +217,22 @@ Use this bucket details to create the s3(In bucket permission use the above deta
 <img width="1879" height="978" alt="image" src="https://github.com/user-attachments/assets/81622493-c370-4094-9499-9d8695d0ec16" />
 
 
+step 10:
+
+To install mysql 
+<img width="1127" height="195" alt="image" src="https://github.com/user-attachments/assets/03eb96ca-d48f-4786-9ac3-d4dea87a8897" />
+<img width="946" height="151" alt="image" src="https://github.com/user-attachments/assets/fc9d70e3-ffc1-4f86-800d-14424d7fc3a9" />
+
+<img width="1141" height="121" alt="image" src="https://github.com/user-attachments/assets/76d13da5-a12e-4097-a354-ac49bb77e7a8" />
+
+<img width="1260" height="259" alt="image" src="https://github.com/user-attachments/assets/a8235192-3e50-4da1-833a-59fe2d1d0264" />
+we connect to RDB from here.
+
+
+step 11:
+we run the jenkins pipeline .
+<img width="1883" height="852" alt="image" src="https://github.com/user-attachments/assets/46f71517-3bdc-4080-bf54-e89307ed47ef" />
+
 
 
 ### Code Explanation
