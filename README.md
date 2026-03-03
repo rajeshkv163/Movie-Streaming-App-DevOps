@@ -175,6 +175,7 @@ Making some system as Worker node so only we install java JDK
 
 
 step 5:
+
 create the agent in jenkins as per jenkins file from code and start it.
 <img width="1919" height="404" alt="image" src="https://github.com/user-attachments/assets/2291a1eb-9b10-40da-9223-5741848a841a" />
 
@@ -190,12 +191,25 @@ we run this below job using dynamic worker node (by saying reference the contain
     }
 
 step 6:
+
 we store our docker hub secerts in github used in jenkins file.
 <img width="1745" height="745" alt="image" src="https://github.com/user-attachments/assets/3224d534-3335-412d-af94-a590b15fc38d" />
 
 step 7:
+
 create RDB in aws
 <img width="1874" height="760" alt="image" src="https://github.com/user-attachments/assets/e3152e03-5517-4502-9f3c-374844955675" />
+
+step 8:
+
+we add all the required credential in jenkins(only for docker hub credentail we use it for others we use secerts from the menu)
+
+<img width="1744" height="775" alt="image" src="https://github.com/user-attachments/assets/0cce61a8-e13c-4d56-818a-c18f0b59ad66" />
+
+<img width="1870" height="750" alt="image" src="https://github.com/user-attachments/assets/2cc7543f-afa3-411f-9d79-1a7da975d8b5" />
+
+<img width="1886" height="888" alt="image" src="https://github.com/user-attachments/assets/d5ea6d1d-9542-477e-89ee-421b445dfa05" />
+copy the hostname and use it in the configmap file 
 
 
 
