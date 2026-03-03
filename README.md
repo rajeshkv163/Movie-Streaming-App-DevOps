@@ -211,6 +211,12 @@ we add all the required credential in jenkins(only for docker hub credentail we 
 <img width="1886" height="888" alt="image" src="https://github.com/user-attachments/assets/d5ea6d1d-9542-477e-89ee-421b445dfa05" />
 copy the hostname and use it in the configmap file 
 
+step 9:
+
+Use this bucket details to create the s3(In bucket permission use the above details)
+<img width="1879" height="978" alt="image" src="https://github.com/user-attachments/assets/81622493-c370-4094-9499-9d8695d0ec16" />
+
+
 
 
 ### Code Explanation
