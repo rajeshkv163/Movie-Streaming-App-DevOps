@@ -145,7 +145,7 @@ The project follows a multi-container Docker architecture consisting of three ma
   <img width="683" height="92" alt="image" src="https://github.com/user-attachments/assets/c8d98e1b-0002-4b63-a19e-f3ca38247b5b" />
 <img width="1825" height="90" alt="image" src="https://github.com/user-attachments/assets/5e750341-370f-4a83-ad8f-1542357dbd82" />
 
-Making some system as Worker node so only we install java JDK
+Making same system as Worker node so only we install java JDK
 
 
 
@@ -202,7 +202,7 @@ create RDB in aws
 
 step 8:
 
-we add all the required credential in jenkins(only for docker hub credentail we use it for others we use secerts from the menu)
+we add all the required credential in jenkins(only for docker hub credentail we use  for others we use secerts from the menu)
 
 <img width="1744" height="775" alt="image" src="https://github.com/user-attachments/assets/0cce61a8-e13c-4d56-818a-c18f0b59ad66" />
 
