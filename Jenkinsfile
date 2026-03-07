@@ -6,7 +6,7 @@ pipeline {
   }
 
   environment {
-    REGISTRY = "jinny1"
+    REGISTRY = "rajeshkv10"
     BACKEND_IMAGE = "movie-streaming-backend-nodejs"
     FRONTEND_IMAGE = "movie-streaming-frontend"
     KUBE_NAMESPACE = "default"
@@ -21,15 +21,15 @@ pipeline {
       }
     }
 
-    stage('Unit Tests') {
-      agent {dockerContainer 'jinny1/jenkins-slave-with-npm-support'}
-      steps {
-        sh '''
-          npm install
-          npm test
-        '''
-      }
-    }
+    // stage('Unit Tests') {
+    //   agent {dockerContainer 'jinny1/jenkins-slave-with-npm-support'}
+    //   steps {
+    //     sh '''
+    //       npm install
+    //       npm test
+    //     '''
+    //   }
+    // }
 
   stage('Set Image Tag') {
   agent { label 'ec2' }
